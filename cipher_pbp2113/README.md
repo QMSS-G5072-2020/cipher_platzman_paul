@@ -2,7 +2,7 @@
 
 ![](https://github.com/paulplatzman/cipher_pbp2113/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/paulplatzman/cipher_pbp2113/branch/main/graph/badge.svg)](https://codecov.io/gh/paulplatzman/cipher_pbp2113) ![Release](https://github.com/paulplatzman/cipher_pbp2113/workflows/Release/badge.svg) [![Documentation Status](https://readthedocs.org/projects/cipher_pbp2113/badge/?version=latest)](https://cipher_pbp2113.readthedocs.io/en/latest/?badge=latest)
 
-Test packages for HW7 of MDS Fall 2020
+Test package for cipher function for HW7 MDS Fall 2020
 
 ## Installation
 

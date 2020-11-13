@@ -10,7 +10,7 @@ Welcome to cipher_pbp2113's documentation!
 .. image:: https://img.shields.io/badge/badges-shields.io-brightgreen
         :target: https://shields.io/
 
-Test packages for HW7 of MDS Fall 2020
+Test package for cipher function for HW7 MDS Fall 2020
 
 To get started, check out the sections below:
 

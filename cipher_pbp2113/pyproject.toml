@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "cipher_platzman_paul"
+name = "cipher_pbp2113"
 version = "0.1.0"
-description = "Test package for HW7 for MDS Fall 2020"
+description = "Test package for cipher function for HW7 MDS Fall 2020"
 authors = ["Paul Platzman <pbp2113@columbia.edu>"]
 license = "MIT"
 
